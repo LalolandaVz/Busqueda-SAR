@@ -48,4 +48,7 @@ Las opciones avanzadas están referidas a que tipo de pronóstico de corrientes 
 
 - Utilizar pronóstico ya descargado: utiliza un pronóstico ya disponible. Debe ser alguna de las anteriores variantes de modelos. El pronóstico debe coincidir con la fecha ingresada en el inicio.
 
+*Cita*
+
+Para referirse al uso de esta aplicación, favor de citar (Veliz S.(2020),"Hacia un sistema búsqueda de objetos en el mar", Tesis de grado de Licenciatura en Oceanografía, UBA).
 
