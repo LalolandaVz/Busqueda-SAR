@@ -27,7 +27,7 @@ Egbert, Gary D., and Svetlana Y. Erofeeva. "Efficient inverse modeling of barotr
 
 *Indicaciones de uso*
 
-El script "Busqueda_SAR-12042020.m" (a ser utilizado en MATLAB) debería buscar los paquetes, funciones y archivos necesarios para su funcionamiento dentro de esta carpeta (excepto el TPXO8_Atlas). Por lo tanto, debe completarse en la ventana de inicio (una vez ejecutado el script) la dirección de la misma.
+El script "Busqueda_SAR-12042020.m" (a ser utilizado en MATLAB R2017 o en alguna actualización posterior) debería buscar los paquetes, funciones y archivos necesarios para su funcionamiento dentro de esta carpeta (excepto el TPXO8_Atlas). Por lo tanto, debe completarse en la ventana de inicio (una vez ejecutado el script) la dirección de la misma.
 El modelo TPXO8_Atlas debe descargarse del repositorio https://github.com/EarthAndSpaceResearch/TMD_Matlab_Toolbox_v2.5.git, y su contenido debe ubicarse dentro del directorio Busqueda-SAR, en una carpeta llamada "TPXO". 
 
 *Indicaciones para realizar una aplicación con MATLAB compiler*
